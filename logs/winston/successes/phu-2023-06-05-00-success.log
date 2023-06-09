@@ -1,0 +1,12 @@
+{
+  message: 'Database is connected...',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-05T07:00:01.681Z'
+}
+{
+  message: 'UM server is running on 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-05T07:00:01.697Z'
+}

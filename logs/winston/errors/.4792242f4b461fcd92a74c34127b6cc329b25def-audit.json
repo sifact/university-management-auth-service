@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\.4792242f4b461fcd92a74c34127b6cc329b25def-audit.json",
+    "files": [
+        {
+            "date": 1685880721394,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-04-05-error.log",
+            "hash": "db42bbaecd91951c414300385d1dde4fadd21e0fddb5e129848b0aaf6143dd54"
+        },
+        {
+            "date": 1685884658947,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-04-06-error.log",
+            "hash": "f6c4cd7ea11ff44c26f29e1bf53b2bf653c881519984f0391fa25274f8505474"
+        },
+        {
+            "date": 1685887214845,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-04-07-error.log",
+            "hash": "4d51c915f757c69829d49baf1e4ac13499ef97cb30b48cd6e2f18e95131fdc17"
+        },
+        {
+            "date": 1685945368215,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-04-23-error.log",
+            "hash": "f303389b4b7ac0ac4341a742e1509ebbe33da9ce26406cf1b347a81b180f1d81"
+        },
+        {
+            "date": 1685948400815,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-05-00-error.log",
+            "hash": "5396ff278b78ce4512793ea1367216583afb71475acf78e788ae20528077f9d9"
+        },
+        {
+            "date": 1685956506572,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-05-02-error.log",
+            "hash": "43e577c5146083c473698917b0baf5f4226a0cd574fe9ab847a94cd08117c2aa"
+        },
+        {
+            "date": 1686041512501,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-06-01-error.log",
+            "hash": "6905674f806d22d92cfee7942ccfb08731b084e8b34c73593b6f251a1a793253"
+        },
+        {
+            "date": 1686042455209,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-06-02-error.log",
+            "hash": "bdf41183b47fb5cf2ba33834096d49462032e2f834631008c82df1be5d68e71d"
+        },
+        {
+            "date": 1686046090844,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-06-03-error.log",
+            "hash": "575af0074d19c3203b35a636ab6e16fb80c3d86d344973976dd25ee3a57e0094"
+        },
+        {
+            "date": 1686332066113,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-09-10-error.log",
+            "hash": "5d4badb95aa1765f2178bc6cd956287a6c8614cb45eca93afe594e860ab267b7"
+        },
+        {
+            "date": 1686333738759,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-09-11-error.log",
+            "hash": "2b7b2db8911e3dabe3f5ead18e3b0c395eaa3ea2480a49864cbd2ec1350e359b"
+        },
+        {
+            "date": 1686337307861,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\errors\\phu-2023-06-09-12-error.log",
+            "hash": "2a672bad4d7370b7d22c3691636026574be27abbdce3895e7d94151d895df1f8"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\.f07652f2cb758aeb948072e1d72833f123b102c0-audit.json",
+    "files": [
+        {
+            "date": 1685881217078,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-05-06-success.log",
+            "hash": "19e50f7f3233d0b87e6105a2ac8e79e768030ff5dc6dee39def48922994aaf72"
+        },
+        {
+            "date": 1685881218423,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-05-42-success.log",
+            "hash": "243444d946f233b254f6c27218ead511c2563c88368f4ef74cce29303e9ea21e"
+        },
+        {
+            "date": 1685881218496,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-05-48-success.log",
+            "hash": "194b5ef9dcc90fe7294af7dc7342b3e2cdba990a8af8f32a5f7209153b59fd68"
+        }
+    ],
+    "hashType": "sha256"
+}

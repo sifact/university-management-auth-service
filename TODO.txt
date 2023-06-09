@@ -12,3 +12,22 @@ UNIVERSITY OF PROGRAMMING HERO
 Different Stages of Git Branch
 
 UM-1 + UM-2 + UM-3 ---->    Development ------> Staging (testing) --------> Production
+
+
+*** Issues of console.log ***
+----> it is synchronous
+----> Performance Issues 
+----> Store logs by retentions 
+----> Log depending on level
+----> Debug Services 
+
+
+***                   Errors                        ***
+
+* ValidationError
+* MongoCastError
+* Zod Error 
+* MongoError: E11000
+* ApiError 
+* Error 
+ 

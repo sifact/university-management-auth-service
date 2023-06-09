@@ -1,0 +1,36 @@
+{
+  message: 'Database is connected...',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:08:11.860Z'
+}
+{
+  message: 'UM server is running on 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:08:11.874Z'
+}
+{
+  message: 'Database is connected...',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:12:01.962Z'
+}
+{
+  message: 'UM server is running on 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:12:01.977Z'
+}
+{
+  message: 'Database is connected...',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:12:16.289Z'
+}
+{
+  message: 'UM server is running on 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-06T10:12:16.300Z'
+}

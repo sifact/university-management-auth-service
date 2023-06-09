@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\.9aace24cabef0dc414b04bb5702f355abaa8b6c5-audit.json",
+    "files": [
+        {
+            "date": 1685880721385,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-05-success.log",
+            "hash": "0d425aeea491ca6f531a3cfe7dab683681142ed9d7a7dc12982ebefd74bb3342"
+        },
+        {
+            "date": 1685884658931,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-06-success.log",
+            "hash": "1e4e579e3eb3d3140b9e51a8176878559b25e4df9285a5100d5723654b3a13cc"
+        },
+        {
+            "date": 1685887214835,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-07-success.log",
+            "hash": "d405ce64a8815ef27f2092f33d449adb1f51f4e92584b9ead2e8cc983cff3381"
+        },
+        {
+            "date": 1685945368167,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-23-success.log",
+            "hash": "1aa6df50cce52b1f722657b14277fc4e4a5243f71a939b5447aa0ef1293ad981"
+        },
+        {
+            "date": 1685948400807,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-05-00-success.log",
+            "hash": "e501397d8d42f0e850f63e73e69c2d6a147de0f1c8a90203c09c35790aeb6333"
+        },
+        {
+            "date": 1685956506561,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-05-02-success.log",
+            "hash": "00c40b9808b4aa91c276600b811fd39afaf9492f6de72d89e2f93572f4bb6f98"
+        },
+        {
+            "date": 1686041512488,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-06-01-success.log",
+            "hash": "85a57cf213630c002bbf8b359a6c225543f14af0d56ce70d71159216d8e043cf"
+        },
+        {
+            "date": 1686042455197,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-06-02-success.log",
+            "hash": "27e45527b3950f29295bf54d045cc0f397271208c744ea6c178140507534a40f"
+        },
+        {
+            "date": 1686046090833,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-06-03-success.log",
+            "hash": "a951ebcf8cf9edccca775cfbc1699bc7e5ef7d2c014219cf9a1318a3b44c59b8"
+        },
+        {
+            "date": 1686332066091,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-09-10-success.log",
+            "hash": "b606b50ca5faa812a197bf733e7a1e6a72b6760d1e08ba8fb1fd1a73e29c484b"
+        },
+        {
+            "date": 1686333738750,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-09-11-success.log",
+            "hash": "fe6c30c0fc31fcb920854878884c6fdc2f33664910b56ba2e883ad48e9462c68"
+        },
+        {
+            "date": 1686337307852,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-09-12-success.log",
+            "hash": "35a8c6c99b70cc98af0f2d73eccea9ea2262e84a4e5e6269be5fa3f1af48c974"
+        }
+    ],
+    "hashType": "sha256"
+}

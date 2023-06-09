@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\.c636704abfbd01d8e85470315a522b4d3005b9a5-audit.json",
+    "files": [
+        {
+            "date": 1685881239468,
+            "name": "C:\\projects\\next-level\\nosql-backend-braniac\\day1\\logs\\winston\\successes\\phu-2023-06-04-05-06-success.log",
+            "hash": "6f1dd1e03dec4f34cc850aebcc2a873be5fbf35d99e1095950bd9531d61a1200"
+        }
+    ],
+    "hashType": "sha256"
+}

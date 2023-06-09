@@ -1,0 +1,6 @@
+{
+  message: 'UM server is running on 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2023-06-04T12:20:18.475Z'
+}

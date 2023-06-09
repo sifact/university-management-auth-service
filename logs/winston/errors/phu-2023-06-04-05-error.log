@@ -1,0 +1,22 @@
+{
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError',
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'Failed to connect database bad auth : Authentication failed.',
+  stack: 'MongoServerError: bad auth : Authentication failed.\n' +
+    '    at Connection.onMessage (C:\\projects\\next-level\\nosql-backend-braniac\\day1\\node_modules\\mongodb\\src\\cmap\\connection.ts:413:18)\n' +
+    '    at MessageStream.<anonymous> (C:\\projects\\next-level\\nosql-backend-braniac\\day1\\node_modules\\mongodb\\src\\cmap\\connection.ts:243:56)\n' +
+    '    at MessageStream.emit (node:events:513:28)\n' +
+    '    at processIncomingData (C:\\projects\\next-level\\nosql-backend-braniac\\day1\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:187:12)\n' +
+    '    at MessageStream._write (C:\\projects\\next-level\\nosql-backend-braniac\\day1\\node_modules\\mongodb\\src\\cmap\\message_stream.ts:68:5)\n' +
+    '    at writeOrBuffer (node:internal/streams/writable:392:12)\n' +
+    '    at _write (node:internal/streams/writable:333:10)\n' +
+    '    at MessageStream.Writable.write (node:internal/streams/writable:337:10)\n' +
+    '    at TLSSocket.ondata (node:internal/streams/readable:766:22)\n' +
+    '    at TLSSocket.emit (node:events:513:28)',
+  label: 'right meow!',
+  timestamp: '2023-06-04T12:42:03.052Z',
+  [Symbol(errorLabels)]: Set(2) { 'HandshakeError', 'ResetPool' }
+}
